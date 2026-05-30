@@ -6,5 +6,5 @@ i've created this bash script that is an automatic archiver based on ytdlp, some
 if you don't know what yt-dlp is, check [this](https://github.com/yt-dlp/yt-dlp)
 
 test
-(https://avatars.githubusercontent.com/u/583231?v=4)
+![test](https://avatars.githubusercontent.com/u/583231?v=4)
 (this is my first ""serious"" uplodad soo :p
